@@ -19,4 +19,4 @@
  
 ![LOGO_IS](https://user-images.githubusercontent.com/76908370/171969830-84d0e284-49d0-4ea7-a916-2a83903db501.png)
 
-[Acesse meu Canal no Youtube]([http://youtube.com.br/leaords](https://www.youtube.com/channel/UC6YymBsFrCaY06Vg6y16Neg))
+[Acesse meu Canal no Youtube](https://www.youtube.com/channel/UC6YymBsFrCaY06Vg6y16Neg)
