@@ -51,3 +51,9 @@ tudo começa aqui
 * Basta colocarmos : e ja vai ser sugerido algum 💙
 
 * Para sabermos os codigos dos emojis vamos ate o github de [Ikatyang](https://github.com/ikatyang)
+
+### Como marcar as pessoas do GitHub
+* É a mesma coisa das outras redes sociais é usar o @ mas so da pra marcar em Issues
+
+### Como dar um replay 
+* É só usar o simbolo de > mas você precisa clicar no 3 pontinhos na mensagem que você quer marcar
